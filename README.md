@@ -1,4 +1,4 @@
-Diagno: Medical Diagnostic Bot
+# 🩺 Diagno: Medical Diagnostic Bot
 
 
 ## 🧠 Overview
@@ -9,7 +9,7 @@ Diagno is an advanced machine learning model designed to analyze user-inputted s
 - Top 4 Disease Predictions – Ranked by relevance percentages.
 - Comprehensive Output – Provides a general description, symptom list, and treatment info for each disease.
 - Similarity Scoring – Percentage scores for how closely symptoms match each predicted disease.
-- 
+ 
 ## ⚙️ How It Works
 - The user enters their symptoms as text.
 - Diagno processes the input using natural language processing techniques to extract and interpret symptoms.
