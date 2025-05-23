@@ -1,4 +1,4 @@
-# 🩺 Diagno: A Medical Symptom Diagnostic Chatbot
+# 🩺 Diagno: Medical Symptom Diagnostic Chatbot
 
 
 ## 🧠 Overview
