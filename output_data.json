@@ -1,0 +1,26 @@
+{
+    "Panic disorder": {
+        "similarity": "99.87317",
+        "description": "A type of anxiety disorder characterized by sudden and repeated episodes of intense fear or discomfort, often accompanied by physical symptoms such as heart palpitations, sweating, or dizziness.",
+        "solution": "Cognitive-behavioral therapy (CBT). Medications such as SSRIs or benzodiazepines. Relaxation techniques and lifestyle modifications.",
+        "symptoms": "Palpitations, Sweating, Trembling, Shortness of breath, Fear of losing control, Dizziness"
+    },
+    "Coronary Atherosclerosis": {
+        "similarity": "0.062018808",
+        "description": "Hardening and narrowing of coronary arteries due to plaque buildup, leading to reduced blood flow to the heart.",
+        "solution": "Lifestyle changes, including a healthy diet, regular exercise, and smoking cessation. Use medications like statins to lower cholesterol, beta-blockers, or ACE inhibitors. Perform procedures such as angioplasty with stenting or coronary artery bypass surgery for severe cases.",
+        "symptoms": "Chest pain or discomfort (angina), shortness of breath, fatigue, irregular heartbeat, dizziness, nausea, sweating, jaw or arm pain (in some cases), heart attack (when a coronary artery becomes completely blocked)"
+    },
+    "Panic Attack": {
+        "similarity": "0.032217138",
+        "description": "Sudden and intense episodes of fear or anxiety, often accompanied by physical symptoms like palpitations, shortness of breath, and dizziness.",
+        "solution": "Cognitive-behavioral therapy (CBT). Medications such as selective serotonin reuptake inhibitors (SSRIs). Breathing exercises and relaxation techniques. Benzodiazepines for short-term relief in acute situations.",
+        "symptoms": "Chest pain, shortness of breath, palpitations"
+    },
+    "Ethylene glycol poisoning-2": {
+        "similarity": "0.009339186",
+        "description": "A presentation of antifreeze poisoning with central nervous system depression and acidosis.",
+        "solution": "Administration of fomepizole or ethanol as antidotes. Supportive care and hemodialysis.",
+        "symptoms": "Metabolic acidosis, apid breathing, rapid heart rate, confusion, headache, dizziness, seizures"
+    }
+}
