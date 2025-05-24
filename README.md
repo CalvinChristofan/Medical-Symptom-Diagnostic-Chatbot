@@ -73,6 +73,7 @@ cd /path/to/your/Medical-Symptom-Diagnostic-Chatbot-main
 To start the chatbot UI, run main.py
 
 
+
 Limitations:
 - Not a Replacement for Professional Diagnosis: Diagno is a tool to assist users and is not a substitute for medical advice from licensed healthcare professionals.
 - Langauge support: Currently only support input text in english only.
