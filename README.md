@@ -74,14 +74,16 @@ To start the chatbot UI, run main.py
 
 
 
-Limitations:
-- Not a Replacement for Professional Diagnosis: Diagno is a tool to assist users and is not a substitute for medical advice from licensed healthcare professionals.
-- Langauge support: Currently only support input text in english only.
-- Complex Cases: May struggle with rare diseases or symptoms not well-represented in the training data.
-- Loading time: While model predict the user input instantly, UI take a fair amount of time to load.
+## ⚠️ Limitations
 
-Source code:
-- Dicoding.com, Learn Machine Learning Development Bootcamp, Sentiment Analysis Project
+- **Not a Replacement for Professional Diagnosis:** Diagno is a tool to assist users and is not a substitute for medical advice from licensed healthcare professionals.
+- **Language Support:** Currently only supports input text in English.
+- **Complex Cases:** May struggle with rare diseases or symptoms not well-represented in the training data.
+- **Loading Time:** While the model predicts user input instantly, the UI may take some time to load.
 
 
-Thank you for using Diagno! Together, we can make health insights more accessible.
+## 🛠️ Source Code & Credits
+
+- Built using knowledge from the **Dicoding.com - Learn Machine Learning Development Bootcamp**.
+- Inspired by a sentiment analysis project.
+- Thank you for using **Diagno**! Together, we can make health insights more accessible.
