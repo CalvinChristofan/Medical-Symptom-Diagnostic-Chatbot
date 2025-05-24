@@ -71,6 +71,7 @@ cd /path/to/your/Medical-Symptom-Diagnostic-Chatbot-main
 
 ### 5. Run the Application
 To start the chatbot UI, run main.py
+
 run the following command:
 ```bash
 python main.py 
