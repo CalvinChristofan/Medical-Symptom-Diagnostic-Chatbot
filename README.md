@@ -72,10 +72,6 @@ cd /path/to/your/Medical-Symptom-Diagnostic-Chatbot-main
 ### 5. Run the Application
 To start the chatbot UI, run main.py
 
-run the following command:
-```bash
-python main.py 
-```
 
 Limitations:
 - Not a Replacement for Professional Diagnosis: Diagno is a tool to assist users and is not a substitute for medical advice from licensed healthcare professionals.
