@@ -56,7 +56,7 @@ Follow the steps below to run the Medical Symptom Diagnostic Chatbot UI:
 Download all the source code files and place them in a single folder.
 
 ### 2. Download the Datasets
-Download the required datasets from the provided [Google Drive link](#datasets-models) and place them in the appropriate directory.
+Download the required datasets from the provided [Google Drive link](#-datasets--models) and place them in the appropriate directory.
 
 ### 3. Navigate to the Project Directory
 Open a terminal in Visual Studio Code (or any terminal of your choice) and navigate to the project folder using the following command:
