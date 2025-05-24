@@ -60,7 +60,10 @@ Download the required datasets from the provided [Google Drive link](#datasets--
 
 ### 3. Navigate to the Project Directory
 Open a terminal in Visual Studio Code (or any terminal of your choice) and navigate to the project folder using the following command:
-```bash cd /path/to/your/Medical-Symptom-Diagnostic-Chatbot-main ```
+```bash 
+cd /path/to/your/Medical-Symptom-Diagnostic-Chatbot-main
+```
+
 > 📝 **Note:**Replace `/path/to/your/Medical-Symptom-Diagnostic-Chatbot-main` with the actual path to the project directory on your computer.
 
 ### 4. Install Dependencies
@@ -69,7 +72,9 @@ Open a terminal in Visual Studio Code (or any terminal of your choice) and navig
 ### 5. Run the Application
 To start the chatbot UI, run main.py
 run the following command:
-```bash python main.py ```
+```bash
+python main.py 
+```
 
 Limitations:
 - Not a Replacement for Professional Diagnosis: Diagno is a tool to assist users and is not a substitute for medical advice from licensed healthcare professionals.
