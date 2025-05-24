@@ -50,6 +50,7 @@ To run Diagno (model_production), these are the additional prerequisites:
 
 ## ▶️ How to Run the UI
 - Download all the file inside the folder.
+- Download the datasets on Google drive.
 - Change directory to Medical-Symptom-Diagnostic-Chatbot-main folder path in your computer (open terminal in visual studio code and type cd PATH/TO/Medical-Symptom-Diagnostic-Chatbot-main).
 - Install all the prerequisites and dependencies.
 - Run main.py
