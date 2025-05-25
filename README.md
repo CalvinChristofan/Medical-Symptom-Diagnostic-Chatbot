@@ -73,6 +73,17 @@ cd /path/to/your/Medical-Symptom-Diagnostic-Chatbot-main
 To start the chatbot UI, run main.py
 
 
+## 🖼️ UI Preview
+
+Here is a brief overview of the app’s interface:
+
+### 🏠 Main Page
+![Main Page Screenshot](images/main page.png)
+
+### 📋 Output Page
+![Output Page Screenshot](images/main page.png)
+
+
 
 #### ⚠️ Limitations
 
