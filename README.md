@@ -78,10 +78,10 @@ To start the chatbot UI, run main.py
 Here is a brief overview of the app’s interface:
 
 ### 🏠 Main Page
-![Main Page Screenshot](images/main page.png)
+![Main Page Screenshot](images/main%20page.png)
 
 ### 📋 Output Page
-![Output Page Screenshot](images/main page.png)
+![Output Page Screenshot](images/output%20page.png)
 
 
 
