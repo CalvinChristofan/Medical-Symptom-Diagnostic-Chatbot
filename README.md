@@ -99,3 +99,9 @@ Here is a brief overview of the app’s interface:
 - Inspired by a sentiment analysis project.
 
 Thank you for using **Diagno**! Together, we can make health insights more accessible.
+
+### Credits
+- [@CalvinChristofan](https://github.com/CalvinChristofan) – Data Augmentation / Model Evaluation / UI Design
+- [@FilbertNg](https://github.com/FilbertNg) – Data & ML Engineer / Model Development Lead
+
+
