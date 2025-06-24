@@ -102,6 +102,6 @@ Thank you for using **Diagno**! Together, we can make health insights more acces
 
 ### Credits
 - [@CalvinChristofan](https://github.com/CalvinChristofan) – Data Augmentation / Model Evaluation / UI Design
-- [@FilbertNg](https://github.com/FilbertNg) – Data & ML Engineer / Model Development Leads
+- [@FilbertNg](https://github.com/FilbertNg) – Data & ML Engineer / Model Development Lead
 
 
